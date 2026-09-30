@@ -1,0 +1,20 @@
+AI Resume Maker
+│
+├── frontend/
+│   └── Next.js
+│       ├── Resume Form
+│       ├── AI Generate
+│       ├── Resume Preview
+│       └── Templates
+│
+├── backend/
+│   ├── main.py
+│   ├── llm.py
+│   ├── prompts.py
+│   └── resume_generator.py
+│
+├── templates/
+│   └── resume.html
+│
+├── .env
+└── .gitignore
